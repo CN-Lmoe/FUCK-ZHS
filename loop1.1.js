@@ -6,6 +6,8 @@
 // @author       Lmoe
 // @run-at       document-end
 // @match        https://hike.zhihuishu.com/*
+// @downloadURL  https://ghproxy.cn/https://raw.githubusercontent.com/CN-Lmoe/ZhiHuiShupdf/main/loop1.1.js
+// @updateURL    https://ghproxy.cn/https://raw.githubusercontent.com/CN-Lmoe/ZhiHuiShupdf/main/loop1.1.js
 // @grant        none
 // ==/UserScript==
 
