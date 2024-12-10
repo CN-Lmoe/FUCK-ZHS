@@ -6,8 +6,8 @@
 // @author       Lmoe
 // @run-at       document-end
 // @match        https://hike.zhihuishu.com/*
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://ghproxy.net/https://raw.githubusercontent.com/CN-Lmoe/FUCK-ZHS/main/FUCK_file.zhihuishu.js
+// @updateURL    https://ghproxy.net/https://raw.githubusercontent.com/CN-Lmoe/FUCK-ZHS/main/FUCK_file.zhihuishu.js
 // @grant        none
 // ==/UserScript==
 
